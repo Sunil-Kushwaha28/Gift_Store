@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/ho"
+            android:icon="@drawable/ic_home"
+            android:iconTint="#FF66A6FF"
+            android:title="Home"></item>
+
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/ic_view"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="My Orders"></item>
+        <item
+            android:id="@+id/ch_pass"
+            android:icon="@drawable/ic_key"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="Password"></item>
+
+    </group>
+
+    <group
+        android:id="@+id/communication"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/ic_phone"
+            android:title="Contact"></item>
+        <item
+            android:id="@+id/feedback"
+            android:icon="@drawable/ic_star"
+            android:iconTint="@color/colorPrimaryDark"
+            android:title="Feedback"></item>
+    </group>
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_exit"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="Logout"></item>
+
+
+</menu>
