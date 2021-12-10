@@ -1,6 +1,8 @@
 # Gift_Store
 I have developed this gift store application using Android, Java, and MySQL.
 
+Screen Shots
+
 ![image](https://user-images.githubusercontent.com/82012814/145535800-a95ac3d6-cced-49fc-ab8d-a95ba41a2241.png)
 ![image](https://user-images.githubusercontent.com/82012814/145536025-2a1c7c31-e032-460b-ab58-9b1a16bb0057.png)
 ![image](https://user-images.githubusercontent.com/82012814/145536060-76458fe9-1376-4265-be83-032f965d38a1.png)
